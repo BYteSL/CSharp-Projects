@@ -1,0 +1,41 @@
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe.config
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.pdb
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csprojAssemblyReference.cache
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Form1.resources
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Properties.Resources.resources
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.GenerateResource.cache
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.exe
+C:\Users\Yuri Lemos\Desktop\Segundo Semestre\LP2\Fisica\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.pdb
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe.config
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.pdb
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Form1.resources
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.exe
+C:\Users\Lenovo\Desktop\FisicaProjectil (2)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.pdb
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csprojAssemblyReference.cache
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.exe
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.pdb
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe.config
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.pdb
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Properties.Resources.resources
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.GenerateResource.cache
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Lemos\Desktop\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Form1.resources
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe.config
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.exe
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\bin\Debug\FisicaProjectil.pdb
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csprojAssemblyReference.cache
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Form1.resources
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Properties.Resources.resources
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.GenerateResource.cache
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.csproj.CoreCompileInputs.cache
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.exe
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.pdb
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.Form2.resources
+E:\Segundo Semestre\Fundamentos de Fisica\Trabalho Facultativo\FisicaProjectil (4)\FisicaProjectil\FisicaProjectil\obj\Debug\FisicaProjectil.UserControl1.resources

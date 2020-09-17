@@ -1,0 +1,12 @@
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\bin\Release\SimulatorNotas.exe.config
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\bin\Release\SimulatorNotas.exe
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\bin\Release\SimulatorNotas.pdb
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.csprojAssemblyReference.cache
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.Properties.Resources.resources
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.csproj.GenerateResource.cache
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.exe
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.pdb
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.Form1.resources
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.Form2.resources
+C:\Users\Yuri Lemos\source\repos\SimNotas\SimulatorNotas\obj\Release\SimulatorNotas.FormCapa.resources
